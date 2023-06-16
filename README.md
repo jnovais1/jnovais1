@@ -14,7 +14,7 @@ Onde tive a oportunidade de atuar diretamente desenvolvendo API's e sistemas par
   
 ### Mãos que conectam com a segurança - Marca Ambiental
 <p align="center">
-Esse foi meu primeiro projeto, de nível baixo de complexidade, mas que me ensinou os conceitos de API, segurança, escalabilidade, e que mais tarde, tive até que fazer deploy utilizando Azure Functions. </p>
+Esse foi meu primeiro projeto profissional, de nível não tão alto de complexidade, mas que me ensinou os conceitos chave de API, segurança, escalabilidade, e que mais tarde, tive até que fazer deploy utilizando Azure Functions. </p>
 <p align="center">
 Desenvolvido em TypeScript, utilizando Node.js, Express, Prisma.IO e MySQL, o "Mãos que conectam com a segurança", consiste em um sistema interno da empresa, para instruir os funcionários sobre segurança do trabalho. Temos áreas, como "Portaria", ou "Tratamento térmico de resíduos", onde temos vídeos explicativos para os funcionários dessas áreas.
 </p>
