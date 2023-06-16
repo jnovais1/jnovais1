@@ -10,34 +10,55 @@ Onde tive a oportunidade de atuar diretamente desenvolvendo API's e sistemas par
 
 ## Projetos Destacados
 
-### Marca Ambiental
+<div align="center">
+  
+### Mãos que conectam com a segurança - Marca Ambiental
 <p align="center">
-  <img src="./imgs/logos/0017_marcaAmbiental.jpg" alt="Marca Ambiental">
+Esse foi meu primeiro projeto, de nível baixo de complexidade, mas que me ensinou os conceitos de API, segurança, escalabilidade, e que mais tarde, tive até que fazer deploy utilizando Azure Functions. </p>
+<p align="center">
+Desenvolvido em TypeScript, utilizando Node.js, Express, Prisma.IO e MySQL, o "Mãos que conectam com a segurança", consiste em um sistema interno da empresa, para instruir os funcionários sobre segurança do trabalho. Temos áreas, como "Portaria", ou "Tratamento térmico de resíduos", onde temos vídeos explicativos para os funcionários dessas áreas.
 </p>
-Breve descrição do projeto e seu propósito. Destaque as tecnologias utilizadas, os desafios enfrentados e suas contribuições específicas.
+
+<p align="center">
+Junto com o sistema, a equipe de design do IST, desenvolveu vídeos, e uma personagem, a "Norminha". 
+<br><a href="https://imgur.com/ijKGUbv"><img src="https://i.imgur.com/ijKGUbv.png" title="source: imgur.com" /></a></br>
+</p>
+
+<div align="center">
+  
+  [Clique aqui para assistir um vídeo dela!](https://www.youtube.com/watch?v=HD5J8MheS58)
+
+  [Link de entrega do projeto](https://www.linkedin.com/posts/regiane-giacomin-74574a189_design-treinamento-tecnologia-activity-7032508165032181760-QVwO?utm_source=share&utm_medium=member_desktop)
+  
+<br><img src="./assets/logos/0017_marcaAmbiental.jpg" alt="Marca Ambiental">
+</div>
 
 ### MentalPRO
-<p align="center">
-  <img src="./imgs/logos/Logo_MentalPRO.jpg" alt="MentalPRO">
-</p>
-Breve descrição do projeto e sua finalidade. Mencione as tecnologias utilizadas, o papel que desempenhou no projeto e quaisquer resultados ou conquistas relevantes.
+<div align="center">
+ Breve descrição do projeto e sua finalidade. Mencione as tecnologias utilizadas, o papel que desempenhou no projeto e quaisquer resultados ou conquistas relevantes.
+
+  <img src="./assets/logos/Logo_MentalPRO.jpg" alt="MentalPRO">
+</div>
+
 
 ### Arcelor Mittal
 <p align="center">
-  <img src="./imgs/logos/Arcelormittal-logo.jpg" alt="Arcelor Mittal">
+  <img src="./assets/logos/Arcelormittal-logo.jpg" alt="Arcelor Mittal">
 </p>
 Descreva o projeto, seu contexto e objetivo. Destaque suas responsabilidades e realizações específicas, bem como as tecnologias empregadas.
 
 ### Wikki
 <p align="center">
-  <img src="./imgs/logos/wikkiBrasil.jpg" alt="Wikki">
+  <img src="./assets/logos/wikkiBrasil.jpg" alt="Wikki">
 </p>
 Breve descrição do projeto e seu propósito. Destaque as tecnologias utilizadas, os desafios enfrentados e suas contribuições específicas.
 
 ### FindesLAB
 <p align="center">
-  <img src="./imgs/logos/jpg_findesLab.jpg" alt="FindesLAB">
+  <img src="./assets/logos/jpg_findesLab.jpg" alt="FindesLAB">
 </p>
+
+
 Breve descrição do projeto e sua finalidade. Mencione as tecnologias utilizadas, o papel que desempenhou no projeto e quaisquer resultados ou conquistas relevantes.
 
 ## Contato
