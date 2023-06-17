@@ -1,6 +1,8 @@
 <div align="center">
-
+  
 # Sobre mim
+  
+<hr size="50"> </hr>
 Olá! Fico feliz se chegou aqui!
 
 Sou Juan Novais, tenho 22 anos, sou desenvolvedor de software e entusiasta de tecnologia.
@@ -13,7 +15,8 @@ Onde tive a oportunidade de atuar diretamente desenvolvendo API's e sistemas par
 </div>
 <br>
 <div align="center">
-
+<hr size="50"> </hr>
+  
 ## Mãos que conectam com a segurança
 <p align="center">
   <img src="./assets/logos/0017_marcaAmbiental.jpg" alt="Marca Ambiental"></br>
@@ -33,6 +36,7 @@ Junto com o sistema, a equipe de design do IST, desenvolveu vídeos, e uma perso
 [Link de entrega do projeto](https://www.linkedin.com/posts/regiane-giacomin-74574a189_design-treinamento-tecnologia-activity-7032508165032181760-QVwO?utm_source=share&utm_medium=member_desktop)
   
 </div>
+<hr size="50"> </hr>
 
 ## Mental PRO
 <div align="center">
@@ -55,33 +59,42 @@ Documentação da API utilizando Swagger;
 
 
 </div>
+<hr size="50"> </hr>
 
 
 ## Arcelor Mittal / Wikki
 <div align="center">
-Descreva o projeto, seu contexto e objetivo. Destaque suas responsabilidades e realizações específicas, bem como as tecnologias empregadas.
 
+Nessa parceria entre [Arcelor Mittal](https://brasil.arcelormittal.com) e [Wikki](https://www.wikki.com.br), o IST assumiu o projeto de desenvolver um front-end em React Native para uma API de cálculos geométricos e estatísticos, já existente, para chapas de aço industriais.
+
+Minha atuação nesse projeto foi principalmente realizando a integração da API com o frontend, Utilizando [Axios](https://axios-http.com/docs/intro). 
+
+Realizei tratamentos e validação dos dados; 
+
+Armazenei utilizando Local Storage;
+
+Realizei algumas lógicas em funções para o Frontend; 
+
+Além de realizar efetivamente a conexão com os endpoints, estudei bastante a documentação da API da Wikki. 
 
   <img src="./assets/logos/Arcelormittal-logo.jpg" alt="Arcelor Mittal">
   <img src="./assets/logos/wikkiBrasil.jpg" alt="Wikki">
 
 </div>
 
-## Wikki
-<div align="center">
-Breve descrição do projeto e seu propósito. Destaque as tecnologias utilizadas, os desafios enfrentados e suas contribuições específicas.
-  
-</div>
+<hr size="50"> </hr>
 
 ## FindesLAB
 <div align="center">
-  Durante meu tempo de 
+  Durante meu tempo de curso técnico e estágio, com o sistema SENAI, tive muito contato com o [FindesLAB](findeslab.com.br), que é um Hub para que startups, empresas e indústrias, possam se conectar e trazer soluções inovadoras. 
   
   <img src="./assets/logos/jpg_findesLab.jpg" alt="FindesLAB">
 </div>
 
 
 Breve descrição do projeto e sua finalidade. Mencione as tecnologias utilizadas, o papel que desempenhou no projeto e quaisquer resultados ou conquistas relevantes.
+
+<hr size="50"> </hr>
 
 ## Contato
 
