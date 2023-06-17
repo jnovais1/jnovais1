@@ -62,15 +62,9 @@ Documentação da API utilizando Swagger;
 Descreva o projeto, seu contexto e objetivo. Destaque suas responsabilidades e realizações específicas, bem como as tecnologias empregadas.
 
 
-
-  <div align="left">
   <img src="./assets/logos/Arcelormittal-logo.jpg" alt="Arcelor Mittal">
-  </div>
-  
- <div align="right">
   <img src="./assets/logos/wikkiBrasil.jpg" alt="Wikki">
- </div>
- 
+
 </div>
 
 ## Wikki
