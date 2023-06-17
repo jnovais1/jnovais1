@@ -87,19 +87,19 @@ Além de realizar efetivamente a conexão com os endpoints, estudei bastante a d
 ## FindesLAB
 <div align="center">
   Durante meu tempo de curso técnico e estágio, com o sistema SENAI, tive muito contato com o [FindesLAB](findeslab.com.br), que é um Hub para que startups, empresas e indústrias, possam se conectar e trazer soluções inovadoras. 
+
   
   <img src="./assets/logos/jpg_findesLab.jpg" alt="FindesLAB">
 </div>
-
-
-Breve descrição do projeto e sua finalidade. Mencione as tecnologias utilizadas, o papel que desempenhou no projeto e quaisquer resultados ou conquistas relevantes.
 
 <hr size="50"> </hr>
 
 ## Contato
 
 Se você deseja saber mais sobre mim ou tiver alguma oportunidade interessante para discutir, fique à vontade para entrar em contato. Estou aberto a colaborações, novos projetos e desafios emocionantes.
-
-- E-mail: [seu e-mail]
-- LinkedIn: [seu perfil no LinkedIn]
-- Website/portfolio: [seu website ou portfólio, se tiver]
+<div align="left">
+  
+- E-mail: juannovais@gmail.com
+  
+- [LinkedIn](https://www.linkedin.com/in/juan-novais/)
+</div>
