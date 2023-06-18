@@ -11,7 +11,7 @@ Atualmente tenho 1 ano de experiência profissional como desenvolvedor, onde atu
 
 No IST, os projetos são selecionados por editais, absorvendo principalmente projetos de relevância para a sociedade, e ou indústria.
 
-Onde tive a oportunidade de atuar diretamente desenvolvendo API's e sistemas para empresas e projetos como: 
+### Onde tive a oportunidade de atuar diretamente desenvolvendo API's e sistemas para empresas e projetos como: 
 </div>
 <br>
 <div align="center">
