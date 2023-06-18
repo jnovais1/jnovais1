@@ -86,10 +86,12 @@ Além de realizar efetivamente a conexão com os endpoints, estudei bastante a d
 
 ## FindesLAB
 <div align="center">
-  Durante meu tempo de curso técnico e estágio, com o sistema SENAI, tive muito contato com o [FindesLAB](findeslab.com.br), que é um Hub para que startups, empresas e indústrias, possam se conectar e trazer soluções inovadoras. 
+  Durante meu tempo de curso técnico e estágio, com o sistema SENAI, tive muito contato com o <a href="https://findeslab.com.br">FindesLAB</a>, que é um Hub para que startups, empresas e indústrias, possam se conectar e trazer soluções inovadoras. 
 
-  
+
+  <div align="center">
   <img src="./assets/logos/jpg_findesLab.jpg" alt="FindesLAB">
+    </div>
 </div>
 
 <hr size="50"> </hr>
@@ -97,9 +99,10 @@ Além de realizar efetivamente a conexão com os endpoints, estudei bastante a d
 ## Contato
 
 Se você deseja saber mais sobre mim ou tiver alguma oportunidade interessante para discutir, fique à vontade para entrar em contato. Estou aberto a colaborações, novos projetos e desafios emocionantes.
+  
 <div align="left">
   
-- E-mail: juannovais@gmail.com
+- E-mail: juannovais63@gmail.com
   
 - [LinkedIn](https://www.linkedin.com/in/juan-novais/)
 </div>
